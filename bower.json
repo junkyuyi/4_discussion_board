@@ -1,0 +1,24 @@
+{
+  "name": "1_1_file_structure_and_simple_server",
+  "authors": [
+    "Jun Kyu Yi <junkyuyi@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-cookies": "^1.5.8",
+    "angular-password": "^1.0.3"
+  }
+}
